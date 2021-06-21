@@ -30,6 +30,7 @@
 /* === Import template variables === */
 /*-------------------------------------------------------------------*/
 /* === SCSS Compass Functions === */
+
 @-moz-keyframes flash {
   0% {
     opacity: 1;
@@ -18433,6 +18434,14 @@ h6, .h6 {
     padding: .875rem 1rem;
     height: 71px;
   }
+
+  .navbar .container img {
+
+    max-height: 55px !important;
+    margin-top: -10px !important;
+
+  }
+
 }
 
 .navbar .navbar-brand {
