@@ -1,1 +1,13 @@
-ааааа
+The following criteria must be met to qualify to the Noob League:
+
+* None of the Team Participants shall be a previous IChO or Mendeleev Olympiad participant
+* None of the Team Participants shall have a degree in Chemistry
+* None of the Team Participants shall be a university student pursuing a degree in Chemistry
+* None of the Team Participants shall be a laureate of the National Olympiad of their home country or its analogue in difficulty for non-EU countries (participant of Regional Olympiad in Russia, National Round qualified in USA)
+* High school teachers are invited to participate in the Amateur or Pro Leagues!
+
+The following criteria must be met to qualify to the Amateur League:
+
+* None of the Team Participants shall be a previous IChO or Mendeleev Olympiad participant
+* None of the Team Participants shall have a degree in Chemistry
+* High school teachers are advised to participate in this League or in Pro League!
